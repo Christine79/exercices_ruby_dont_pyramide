@@ -1,0 +1,19 @@
+dans le exo_07_a:
+
+ le programme reste en attente d'une saisie avec
+ demande de la saisie attendue par l'affichage d'une question par puts
+
+
+ dans le exo_7_b:
+
+ même chose avec présentation d'une sorte de prompt par
+ affichage du caratère ">" pour indiquer ou faire la saisie
+
+
+ dans le exo_07_C:
+
+ la demande de saisie n'est pas indiquée.
+ C'est troublant, on pourrait essayer si on n'était pas
+ prévenu, si on n'a pas écrit le programme soi-même
+ par exemple, de sortir, d'aborter ce truc avec des combinaisons
+ étranges de Ctrl + grrr, Ctrl + argggg ou que sais-je.
